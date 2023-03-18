@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Shashi kumar</h1>
 <h3 align="center">A passionate frontend and Backend developer from India</h3>
 <img alt="Loading" width="100%" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityarajput732&label=Profile%20views&color=0e75b6&style=flat" alt="shashi993" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shashi993&label=Profile%20views&color=0e75b6&style=flat" alt="shashi993" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashi993" alt="shashi993" /></a> </p>
 
